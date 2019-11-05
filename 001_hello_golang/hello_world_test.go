@@ -1,4 +1,4 @@
-package main
+package _01_hello_golang
 
 import (
 	"testing"
