@@ -1,4 +1,4 @@
-package book
+package main
 
 import (
 	"bufio"
