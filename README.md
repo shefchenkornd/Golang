@@ -64,10 +64,6 @@ php artisan storage:link
 Также проект имеет админ.панель, которая находится по адресу 
 [localhost:31080/admin](http://localhost:31080/admin)
 
-Логин/пароль к админке сайта
-* admin@root.com
-* 1i2TRTjd1o2iR1j2o
-
 Для построения админ.панели используется пакет [Laravel Backpack](https://github.com/Laravel-Backpack).
 
 Базовый пакет [Laravel Backpack](https://github.com/Laravel-Backpack) предлагает аутентификацию администратора и пустую панель администратора с использованием AdminLTE.
