@@ -1,0 +1,14 @@
+API endpoints           Handler functions           Http actions
+
+/books                  GetBooks                    Get
+/books/{id}              GetBook                     Get
+/books                  AddBook                     Post
+/books                  UpdateBook                  Put
+/book/{id}              RemoveBook                  Delete
+
+Какие пакеты мы будем использовать:
+gorilla/mux
+net/http
+encoding/json
+reflect
+strconv

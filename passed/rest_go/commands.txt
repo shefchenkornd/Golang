@@ -1,0 +1,8 @@
+go get github.com/lib/pq
+go get github.com/subosito/gotenv
+
+
+
+	_"database/sql"
+	_"github.com/lib/pq"
+	_"github.com/subosito/gotenv"
