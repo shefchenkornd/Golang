@@ -7,6 +7,8 @@
     <mapping directory="$PROJECT_DIR$/src/github.com/gorilla/mux" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/lib/pq" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/pkg/errors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/spf13/cobra" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/spf13/pflag" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/subosito/gotenv" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/golang.org/x/mod" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/golang.org/x/net" vcs="Git" />
